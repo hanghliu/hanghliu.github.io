@@ -1,1 +1,15 @@
 theme: jekyll-theme-leap-day
+
+# For Atom Feed
+domain: hanghliu.github.io
+author: Hang Liu
+email: hanghliu@gmail.com
+
+
+# Site Settings
+locale                   : "en-US"
+# Keep original, do not replace
+title                    : "Welcome Page"
+title_separator          : "-"
+name                     : "Hang Liu"
+description              : "Welcome page of HangLiu's github pages."
