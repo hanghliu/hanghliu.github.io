@@ -9,7 +9,7 @@ email: hanghliu@gmail.com
 # Site Settings
 locale                   : "en-US"
 # Keep original, do not replace
-title                    : "Hello :)"
+title                    : "Welcome Page"
 title_separator          : "-"
-name                     : "Hang Liu"
+name                     : "Hello :)"
 description              : "HangLiu's GitHub pages."
